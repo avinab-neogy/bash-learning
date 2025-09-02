@@ -1,0 +1,4 @@
+Hey there! This is a sample file to run the search.sh script
+Let's see try searching the pattern "the" in this file!
+It should return 4.
+Thanks!
