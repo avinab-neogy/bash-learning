@@ -35,7 +35,7 @@ read -p "Enter number 2: " m
 sum=\$((n + m))
 echo "Sum is \$sum"
 ```
-```
+
 **Notes:**
 
 - For arithmetic, use `$(( ... ))` for calculations in Bash.
